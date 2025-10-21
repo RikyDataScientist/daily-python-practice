@@ -56,3 +56,8 @@ if __name__ == "__main__":
   print(tail([1, 2, 3]))  # [2, 3]
   print(init([1, 2, 3]))  # [1, 2]
   print(last([1, 2, 3]))  # 3
+
+# 📝 Note
+"""
+For 7 kyu, it's so easy for me because for my first try, the code worked.
+"""
