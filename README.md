@@ -8,7 +8,7 @@ The aim is to sharpen logical thinking, improve code readability, and develop al
 ## 📅 Daily Progress
 | Date | Challenge | Difficulty | Link | Status |
 |------|------------|-------------|------|---------|
-| 2025-10-21 | Two Sum | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | ✅ Completed |
+| 2025-10-21 | Head, Tail, Init and Last | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/54592a5052756d5c5d0009c3) | ✅ Completed |
 
 ---
 
