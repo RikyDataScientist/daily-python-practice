@@ -1,6 +1,6 @@
-# 🐍 Python Codewars Solutions
+# 🐍 Python Daily Practice
 
-This repository contains my **daily Python solutions** for Codewars challenges.  
+This repository contains my **daily Python practice** for Codewars challenges.  
 The aim is to sharpen logical thinking, improve code readability, and develop algorithmic efficiency — one kata at a time.
 
 ---
@@ -18,10 +18,3 @@ The aim is to sharpen logical thinking, improve code readability, and develop al
 - Apply **Test-Driven Development (TDD)** to ensure code reliability.  
 
 ---
-
-## 🚀 How to Run
-Clone the repository and run any script:
-```bash
-git clone https://github.com/USERNAME/python-codewars-solutions.git
-cd python-codewars-solutions/2025/10-October
-python day-01_two_sum.py
