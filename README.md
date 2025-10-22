@@ -6,7 +6,7 @@ The aim is to sharpen logical thinking, improve code readability, and develop al
 ---
 
 ## 🎯 My Goals
-I have get at least 5 kyu for better logical thinking in python with clear, readable, and efficient code.
+I have to get at least 5 kyu for better logical thinking in python with clear, readable, and efficient code.
 
 ---
 
