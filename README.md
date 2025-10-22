@@ -5,11 +5,17 @@ The aim is to sharpen logical thinking, improve code readability, and develop al
 
 ---
 
+## 🎯 My Goals
+I have get at least 5 kyu for better logical thinking in python with clear, readable, and efficient code.
+
+---
+
 ## 📅 Daily Progress
 | Date | Challenge | Difficulty | Link | Status |
 |------|------------|-------------|------|---------|
 | 2025-10-21 | Head, Tail, Init and Last | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/54592a5052756d5c5d0009c3) | ✅ Completed |
 | 2025-10-22 | Descending Order | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | ✅ Completed |
+| 2025-10-23 | International Morse Code Encryption | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/55b8c0276a7930249e00003c) | ✅ Completed |
 
 ---
 
