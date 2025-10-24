@@ -17,6 +17,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-10-22 | Descending Order | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | ✅ Completed |
 | 2025-10-23 | International Morse Code Encryption | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/55b8c0276a7930249e00003c) | ✅ Completed |
 | 2025-10-24 | Isograms | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | ✅ Completed |
+| 2025-10-25 | Validate the Euro bill | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/67fb86b6564f0bd70dc615b1) | ✅ Completed |
 
 ---
 
