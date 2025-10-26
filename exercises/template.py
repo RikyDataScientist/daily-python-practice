@@ -25,5 +25,5 @@ if __name__ == "__main__":
 
 # 📝 Note
 """
-Your Note for this practise 
+Your Note for this practise
 """
