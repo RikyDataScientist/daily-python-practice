@@ -21,6 +21,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-10-26 | Stop gninnipS My sdroW! | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5264d2b162488dc400000001) | ✅ Completed |
 | 2025-10-27 | Duplicate Arguments | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/520d9c27e9940532eb00018e) | ✅ Completed |
 | 2025-10-28 | Validate Credit Card Number | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | ✅ Completed |
+| 2025-10-29 | Rot13 | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/530e15517bc88ac656000716) | ✅ Completed |
 
 ---
 
