@@ -1,7 +1,7 @@
 """
 🧠 Challenge: International Morse Code Encryption
 🔗 Link: https://www.codewars.com/kata/55b8c0276a7930249e00003c
-🏷️ Level: 7
+🏷️ Level: 7 kyu
 📅 Date: 2025-10-23
 
 📝 Instruction:
