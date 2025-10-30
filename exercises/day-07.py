@@ -1,7 +1,7 @@
 """
 🧠 Challenge: Duplicate Arguments
 🔗 Link: https://www.codewars.com/kata/520d9c27e9940532eb00018e
-🏷️ Level: 6
+🏷️ Level: 6 kyu
 📅 Date: 2025-10-27
 
 📝 Instruction:
