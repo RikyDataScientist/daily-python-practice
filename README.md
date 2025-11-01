@@ -24,6 +24,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-10-29 | Rot13 | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/530e15517bc88ac656000716) | ✅ Completed |
 | 2025-10-30 | Simple sum of pairs | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | ✅ Completed |
 | 2025-10-31 | Counting Duplicates | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | ✅ Completed |
+| 2025-11-01 | Word Challenges at School | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/580be55ca671827cfd000043) | ✅ Completed |
 
 ---
 
