@@ -30,6 +30,8 @@ def multi_table(number):
         result.append(f"{i} * {number} = {i * number}")
     return '\n'.join(result)
 
+def multi_table(number):
+    return '\n'.join(f'{i} * {number} = {i * number}' for i in range(1, 11))
 
 # ✅ Test Cases
 if __name__ == "__main__":
