@@ -27,6 +27,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-01 | Word Challenges at School | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/580be55ca671827cfd000043) | ✅ Completed |
 | 2025-11-02 | MakeUpperCase | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | ✅ Completed |
 | 2025-11-03 | Multiplication table for number | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | ✅ Completed |
+| 2025-11-04 | Categorize New Member | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) | ✅ Completed |
 
 ---
 
