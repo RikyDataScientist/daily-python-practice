@@ -31,6 +31,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-05 | Binary Addition | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/551f37452ff852b7bd000139) | ✅ Completed |
 | 2025-11-06 | Bit Counting | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/526571aae218b8ee490006f4) | ✅ Completed |
 | 2025-11-07 | Pokemon Damage Calculator | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/536e9a7973130a06eb000e9f) | ✅ Completed |
+| 2025-11-08 | Replace With Alphabet Position | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/546f922b54af40e1e90001da/python) | ✅ Completed |
 
 ---
 
