@@ -35,6 +35,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-09 | Calculating with Functions | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) | ✅ Completed |
 | 2025-11-10 | Find the odd int | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54da5a58ea159efa38000836) | ✅ Completed |
 | 2025-11-11 | Help Kiyo きよ solve her problems LCM Fun! | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5872bb7faa04282110000124) | ✅ Completed |
+| 2025-11-12 | Pizza pieces | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5551dc71101b2cf599000023) | ✅ Completed |
 
 ---
 
