@@ -38,6 +38,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-12 | Pizza pieces | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5551dc71101b2cf599000023) | ✅ Completed |
 | 2025-11-13 | Product of consecutive Fib numbers | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) | ✅ Completed |
 | 2025-11-14 | Moving Zeros To The End | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | ✅ Completed |
+| 2025-11-15 | Sum of Pairs | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/54d81488b981293527000c8f) | ✅ Completed |
 
 ---
 
