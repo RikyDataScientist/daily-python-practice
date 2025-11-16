@@ -40,6 +40,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-14 | Moving Zeros To The End | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | ✅ Completed |
 | 2025-11-15 | Sum of Pairs | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/54d81488b981293527000c8f) | ✅ Completed |
 | 2025-11-16 | Don't give me five! | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5813d19765d81c592200001a) | ✅ Completed |
+| 2025-11-17 | Bubblesort Once | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/56b97b776ffcea598a0006f2) | ✅ Completed |
 
 ---
 
