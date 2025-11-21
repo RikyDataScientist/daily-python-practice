@@ -44,6 +44,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-18 | Grouped by commas | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5274e122fc75c0943d000148) | ✅ Completed |
 | 2025-11-19 | CamelCase Method | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/587731fda577b3d1b0001196) | ✅ Completed |
 | 2025-11-20 | Letterbox Paint-Squad | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/597d75744f4190857a00008d) | ✅ Completed |
+| 2025-11-21 | (Ready for) Prime Time | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/521ef596c106a935c0000519) | ✅ Completed |
 
 ---
 
