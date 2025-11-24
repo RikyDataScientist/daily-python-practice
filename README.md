@@ -47,6 +47,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-21 | (Ready for) Prime Time | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/521ef596c106a935c0000519) | ✅ Completed |
 | 2025-11-22 | The Lamp: Revisited | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/570e6e32de4dc8a8340016dd) | ✅ Completed |
 | 2025-11-23 | Find within array | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/51f082ba7297b8f07f000001) | ✅ Completed |
+| 2025-11-24 | Conway's Look and Say - Generalized | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/530045e3c7c0f4d3420001af/python) | ✅ Completed |
 
 ---
 
