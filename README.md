@@ -51,6 +51,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-25 | Convert a linked list to a string | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/582c297e56373f0426000098/python) | ✅ Completed |
 | 2025-11-26 | Parse a linked list from a string | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/582c5382f000e535100001a7) | ✅ Completed |
 | 2025-11-27 | Highest and Lowest | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/554b4ac871d6813a03000035) | ✅ Completed |
+| 2025-11-28 | Complete The Pattern #7 - Cyclical Permutation | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/557592fcdfc2220bed000042/python) | ✅ Completed |
 
 ---
 
