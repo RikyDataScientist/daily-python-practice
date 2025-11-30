@@ -53,6 +53,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-27 | Highest and Lowest | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/554b4ac871d6813a03000035) | ✅ Completed |
 | 2025-11-28 | Complete The Pattern #7 - Cyclical Permutation | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/557592fcdfc2220bed000042/python) | ✅ Completed |
 | 2025-11-29 | First non-repeating character | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python) | ✅ Completed |
+| 2025-11-30 | Decode the Morse code | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54b724efac3d5402db00065e) | ✅ Completed |
 
 ---
 
