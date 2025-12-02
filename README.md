@@ -55,6 +55,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-11-29 | First non-repeating character | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python) | ✅ Completed |
 | 2025-11-30 | Decode the Morse code | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54b724efac3d5402db00065e) | ✅ Completed |
 | 2025-12-01 | Multiples of 3 or 5 | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/514b92a657cdc65150000006) | ✅ Completed |
+| 2025-12-02 | Who likes it? | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | ✅ Completed |
 
 ---
 
