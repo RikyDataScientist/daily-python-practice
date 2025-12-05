@@ -58,6 +58,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-02 | Who likes it? | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | ✅ Completed |
 | 2025-12-03 | Array.diff | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/523f5d21c841566fde000009/python) | ✅ Completed |
 | 2025-12-04 | Sum of Digits / Digital Root | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/541c8630095125aba6000c00/python) | ✅ Completed |
+| 2025-12-05 | Create Phone Number | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python) | ✅ Completed |
 
 ---
 
