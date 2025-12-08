@@ -61,6 +61,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-05 | Create Phone Number | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python) | ✅ Completed |
 | 2025-12-06 | Find The Parity Outlier | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | ✅ Completed |
 | 2025-12-07 | Duplicate Encoder | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | ✅ Completed |
+| 2025-12-08 | Convert string to camel case | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/517abf86da9663f1d2000003/python) | ✅ Completed |
 
 ---
 
