@@ -64,6 +64,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-08 | Convert string to camel case | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/517abf86da9663f1d2000003/python) | ✅ Completed |
 | 2025-12-09 | Take a Ten Minutes Walk | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54da539698b8a2ad76000228/python) | ✅ Completed |
 | 2025-12-10 | Persistent Bugger. | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python) | ✅ Completed |
+| 2025-12-11 | Simple Pig Latin | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f/python) | ✅ Completed |
 
 ---
 
