@@ -67,6 +67,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-11 | Simple Pig Latin | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f/python) | ✅ Completed |
 | 2025-12-12 | Your order, please | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/55c45be3b2079eccff00010f/python) | ✅ Completed |
 | 2025-12-13 | Bracket Duplicates | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea/python) | ✅ Completed |
+| 2025-12-14 | String Scramble | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5822d89270ca28c85c0000f3/python) | ✅ Completed |
 
 ---
 
