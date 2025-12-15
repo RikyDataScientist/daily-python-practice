@@ -68,6 +68,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-12 | Your order, please | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/55c45be3b2079eccff00010f/python) | ✅ Completed |
 | 2025-12-13 | Bracket Duplicates | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea/python) | ✅ Completed |
 | 2025-12-14 | String Scramble | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5822d89270ca28c85c0000f3/python) | ✅ Completed |
+| 2025-12-15 | Adding ordinal indicator suffixes to numbers | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/52dca71390c32d8fb900002b/python) | ✅ Completed |
 
 ---
 
