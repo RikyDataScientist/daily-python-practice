@@ -70,6 +70,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-14 | String Scramble | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5822d89270ca28c85c0000f3/python) | ✅ Completed |
 | 2025-12-15 | Adding ordinal indicator suffixes to numbers | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/52dca71390c32d8fb900002b/python) | ✅ Completed |
 | 2025-12-16 | Rock Paper Scissors! | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) | ✅ Completed |
+| 2025-12-17 | Run-length encoding | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/546dba39fa8da224e8000467/python) | ✅ Completed |
 
 ---
 
