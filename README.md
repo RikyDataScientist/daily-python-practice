@@ -74,6 +74,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-19 | Does my number look big in this? | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5287e858c6b5a9678200083c/python) | ✅ Completed |
 | 2025-12-20 | Only Duplicates | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5a1dc4baffe75f270200006b/python) | ✅ Completed |
 | 2025-12-21 | Calculate String Rotation | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/5596f6e9529e9ab6fb000014/python) | ✅ Completed |
+| 2025-12-22 | WeIrD StRiNg CaSe | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | ✅ Completed |
 
 ---
 
