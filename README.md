@@ -77,6 +77,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-22 | WeIrD StRiNg CaSe | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | ✅ Completed |
 | 2025-12-23 | Friend or Foe? | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/55b42574ff091733d900002f/python) | ✅ Completed |
 | 2025-12-24 | Unique In Order | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/54e6533c92449cc251001667/python) | ✅ Completed |
+| 2025-12-25 | Find the unique number | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/python) | ✅ Completed |
 
 ---
 
