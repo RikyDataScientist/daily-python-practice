@@ -82,6 +82,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-27 | Get the Middle Character | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/56747fd5cb988479af000028/python) | ✅ Completed |
 | 2025-12-28 | Disemvowel Trolls | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/52fba66badcd10859f00097e) | ✅ Completed |
 | 2025-12-29 | Count the smiley faces! | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/583203e6eb35d7980400002a/python) | ✅ Completed |
+| 2025-12-30 | Convert PascalCase string into snake_case | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/529b418d533b76924600085d) | ✅ Completed |
 
 
 ---
