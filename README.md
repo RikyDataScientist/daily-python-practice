@@ -85,6 +85,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2025-12-30 | Convert PascalCase string into snake_case | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/529b418d533b76924600085d) | ✅ Completed |
 | 2025-12-31 | Extract the domain name from a URL | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/514a024011ea4fb54200004b/python) | ✅ Completed |
 | 2026-01-01 | Not very secure | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) | ✅ Completed |
+| 2026-01-02 | Find the Mine | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | ✅ Completed |
 
 
 ---
