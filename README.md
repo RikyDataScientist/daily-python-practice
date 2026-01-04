@@ -87,6 +87,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-01-01 | Not very secure | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) | ✅ Completed |
 | 2026-01-02 | Find the Mine | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | ✅ Completed |
 | 2026-01-03 | The Hashtag Generator | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/52449b062fb80683ec000024) | ✅ Completed |
+| 2026-01-04 | RGB To Hex Conversion | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/513e08acc600c94f01000001/python) | ✅ Completed |
 
 
 ---

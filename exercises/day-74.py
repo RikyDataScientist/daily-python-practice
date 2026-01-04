@@ -2,7 +2,7 @@
 🧠 Challenge: The Hashtag Generator
 🔗 Link: https://www.codewars.com/kata/52449b062fb80683ec000024
 🏷️ Level: 5 kyu
-📅 Date: 2025-01-03
+📅 Date: 2026-01-03
 
 📝 Instruction:
 The marketing team is spending way too much time typing in hashtags.

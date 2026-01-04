@@ -2,7 +2,7 @@
 🧠 Challenge: Find the Mine
 🔗 Link: https://www.codewars.com/kata/528d9adf0e03778b9e00067e
 🏷️ Level: 6 kyu
-📅 Date: 2026-01-01
+📅 Date: 2026-01-02
 
 📝 Instruction:
 You've just discovered a square (NxN) field and you notice a warning sign.
