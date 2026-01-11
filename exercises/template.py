@@ -12,7 +12,7 @@
 <expected output>
 """
 
-# ✨ Your Solution
+# ✨ My Solution
 def function_name(...):
     # Write your solution here
     pass
@@ -22,8 +22,3 @@ def function_name(...):
 if __name__ == "__main__":
     # Example test cases
     print(function_name(...))  # Expected output
-
-# 📝 Note
-"""
-Your Note for this practise
-"""
