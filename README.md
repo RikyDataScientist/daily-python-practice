@@ -90,6 +90,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-01-04 | RGB To Hex Conversion | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/513e08acc600c94f01000001/python) | ✅ Completed |
 | 2026-01-05 | Directions Reduction | 🟢 5 kyu | [View Kata](https://www.codewars.com/kata/550f22f4d758534c1100025a/python) | ✅ Completed |
 | 2026-01-11 | Which are in? | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/550554fd08b86f84fe000a58/python) | ✅ Completed |
+| 2026-01-14 | Detect Pangram | 🟢 6 kyu | [View Kata](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/python) | ✅ Completed |
 
 
 ---
