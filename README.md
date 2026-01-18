@@ -96,6 +96,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-01-15 | Human Readable Time                            | 🟢 5 kyu   | [View Kata](https://www.codewars.com/kata/52685f7382004e774f0001f7/python) | ✅ Completed |
 | 2026-01-16 | Tribonacci Sequence                            | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/556deca17c58da83c00002db/python) | ✅ Completed |
 | 2026-01-17 | Equal Sides Of An Array                        | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/python) | ✅ Completed |
+| 2026-01-18 | Regex validate PIN code                        | 🟢 7 kyu   | [View Kata](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/python) | ✅ Completed |
 
 ---
 
