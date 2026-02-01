@@ -100,6 +100,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-01-24 | Playing with digits                            | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/5552101f47fc5178b1000050/python) | ✅ Completed |
 | 2026-01-25 | Split Strings                                  | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python) | ✅ Completed |
 | 2026-01-26 | Sort the odd                                   | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | ✅ Completed |
+| 2026-01-29 | Complementary DNA                              | 🟢 7 kyu   | [View Kata](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/python) | ✅ Completed |
 
 ---
 
