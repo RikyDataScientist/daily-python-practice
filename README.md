@@ -105,6 +105,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-02-03 | Build Tower                                    | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/python) | ✅ Completed |
 | 2026-02-06 | Highest Scoring Word                           | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/python) | ✅ Completed |
 | 2026-02-09 | Break camelCase                                | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/5208f99aee097e6552000148/python) | ✅ Completed |
+| 2026-02-12 | Valid Braces                                   | 🟢 6 kyu   | [View Kata](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/python) | ✅ Completed |
 
 ---
 
