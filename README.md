@@ -111,6 +111,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-02-17 | Remove anchor from URL                         | 🟢 7 kyu   | [View Kata](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/python) | ✅ Completed |
 | 2026-02-19 | String incrementer                             | 🟡 5 kyu   | [View Kata](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/python) | ✅ Completed |
 | 2026-02-21 | Scramblies                                     | 🟡 5 kyu   | [View Kata](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/python) | ✅ Completed |
+| 2026-02-27 | Write Number in Expanded Form                  | 🟡 6 kyu   | [View Kata](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python) | ✅ Completed |
 
 ---
 
