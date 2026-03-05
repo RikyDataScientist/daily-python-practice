@@ -114,6 +114,7 @@ I have to get at least 5 kyu for better logical thinking in python with clear, r
 | 2026-02-27 | Write Number in Expanded Form                  | 🟡 6 kyu   | [View Kata](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python) | ✅ Completed |
 | 2026-03-01 | Count characters in your string                | 🟡 6 kyu   | [View Kata](https://www.codewars.com/kata/52efefcbcdf57161d4000091/python) | ✅ Completed |
 | 2026-03-03 | Sums of Parts                                  | 🟡 6 kyu   | [View Kata](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/python) | ✅ Completed |
+| 2026-03-05 | Valid Phone Number                             | 🟡 6 kyu   | [View Kata](https://www.codewars.com/kata/525f47c79f2f25a4db000025/python) | ✅ Completed |
 
 ---
 
